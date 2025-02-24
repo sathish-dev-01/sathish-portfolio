@@ -97,6 +97,15 @@ form button {
     color: #B0C4DE;
 }
 
+@media (max-width: 991px) {
+    .about h1 , p {
+        text-align: center;
+    }
+    .about , a {
+        text-align: center;
+    }
+}
+
 @media (max-width: 400px) {
     .about img {
         width: 100%;
