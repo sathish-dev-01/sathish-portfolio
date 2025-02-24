@@ -97,6 +97,14 @@ form button {
     color: #B0C4DE;
 }
 
+.projects .card-title {
+    color: rosybrown;
+}
+
+.projects .card-text {
+    text-align: left;
+}
+
 @media (max-width: 991px) {
     .about h1 , p {
         text-align: center;
